@@ -1,0 +1,19 @@
+{
+  "name": "github-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.12"
+  }
+}
